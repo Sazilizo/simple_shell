@@ -2,7 +2,7 @@
 
 /**
  *handle_signal- it keeps track of is interactive bool mode
- *@m: the signal number
+ *@mode: the signal number
  */
 
 void handle_signal(int mode)

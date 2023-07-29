@@ -1,6 +1,6 @@
 #include "shell.h"
 /**
- *checker_builtIn- checks to see weather its a built in function
+ *check_builtIn - checks to see weather its a built in function
  *@cmd: tokenized user input
  *@buf: line drived fromgetline function
  *Return: 1 if cmd excuted 0 if cmd is not executed
